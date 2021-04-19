@@ -1,4 +1,4 @@
-### Hi there 👋, I am "alkemann" aka Alexander
+## 👋, I am Alexander
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/lake?logo=keybase&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/alkemann?logo=twitter&style=for-the-badge)
